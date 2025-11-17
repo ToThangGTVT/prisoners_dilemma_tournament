@@ -34,27 +34,6 @@ public class PrisonersDilemmaTournament {
         strategies.add(new TitForTatForgiving());
         strategies.add(new RandomStrategy());
         strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
-        strategies.add(new RandomStrategy());
         // Bạn có thể thêm các chiến lược phức tạp khác ở đây (ví dụ: Tit for Two Tats)
 
         // Khởi tạo điểm số

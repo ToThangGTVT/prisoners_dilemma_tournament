@@ -14,6 +14,6 @@ class AlwaysCooperate implements Strategy {
 
     @Override
     public String getName() {
-        return "Always Cooperate (Luôn Hợp tác)";
+        return "Always Cooperate (Dĩ hòa vi quý)";
     }
 }
